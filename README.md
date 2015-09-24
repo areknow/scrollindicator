@@ -24,9 +24,9 @@ Just copy the js/scrollindicator.js file into your project. Don't forget to also
 <br>
 #####Bower installation
 Just type the following command:
-
+```
 bower install scrollindicator
-
+```
 <br>
 <hr>
 <br>
