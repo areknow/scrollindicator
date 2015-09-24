@@ -1,19 +1,18 @@
-// to initialize:
-//
-// $('body').scrollindicator();
-// or
-// $('body').scrollindicator({ 
-//            backgroundColor: 'transparent', // behind the bar color, if omitted the default is transparent
-//            color: 'black', // bar's color
-//            gradientFinish: 'yellow', // if set, the bar has a gradient color and color option is used for gradientStart,
-//                                  // if both color and gradientFinish options are omitted, bar has a gradient blue color
-//            where: 'header', // bar's position, eg: 'header' to be placed in <header>, or '#myheader' to be placed in $('#myheader'),
-//                              // if omitted, the bar by default is placed with fixed position at the top or at the bottom of the page according to position option
-//            position: 'top', // top or bottom, if top, the bar is placed at the top of $(where), if bottom, bar is placed at the bottom of $(where),
-//                             // if omitted, the default is top
-//            width: '5px' //bar's width, if omitted, width is set to 5px by default
-// });
-
+/**
+ * Scroll Indicator file
+ *
+ * @link              http://charaplessa.com/
+ * @since             1.0.0
+ *
+ * @jquery-plugin
+ * Plugin Name:       Scroll Indicator
+ * Plugin URI:        https://github.com/charaplessa/scrollindicator
+ * Description:       Scroll Indicator adds a bar on your page, which indicates the percentage of the page that has been scrolled.
+ * Version:           1.0.0
+ * Author:            Chara Plessa
+ * Author URI:        http://charaplessa.com/
+ * License:           MIT
+ */
 
 // the semi-colon before the function invocation is a safety 
 // net against concatenated scripts and/or other plugins 
