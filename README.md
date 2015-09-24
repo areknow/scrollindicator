@@ -19,7 +19,7 @@ You can do this by importing the following line to your webpage inside the <head
 ###Installation
 <br>
 #####Normal installation
-Just copy the js/scrollindicator.js file into your project.
+Just copy the js/scrollindicator.js file into your project. Don't forget to also include dependecy files into your project.
 <br>
 <br>
 #####Bower installation
