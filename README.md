@@ -8,11 +8,6 @@ scrollindicator.js is a jQuery plugin that adds a bar on your page, which indica
 ###Depedencies
 This is a jQuery plugin, so jQuery must be imported to your project prior scrollindicator.js script.
 
-You can do this by importing the following line to your webpage inside the <head> tag:
-```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
-```
-
 <br>
 <hr>
 <br>
@@ -20,6 +15,10 @@ You can do this by importing the following line to your webpage inside the <head
 <br>
 #####Normal installation
 Just copy the js/scrollindicator.js file into your project. Don't forget to also include dependecy files into your project.
+```
+<script src="jquery.js"></script>
+<script src="scrollindicator.js"></script>
+```
 <br>
 <br>
 #####Bower installation
