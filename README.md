@@ -1,4 +1,5 @@
 # scrollindicator
+<br>
 scrollindicator.js is a jQuery plugin that adds a bar on your page, which indicates the percentage of the page that has been scrolled.
 
 <br>
@@ -97,5 +98,6 @@ Bar's width. If omitted, width is set to 5px by default.
 <br>
 <br>
 Enjoy the script and let me know for any suggestions you may have for further enhancement!
+<br>
 <br>
 Cheers!
